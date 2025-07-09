@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey there! I'm Ninjax<br><br>🔭 I’m currently working on **Full Stack Web Projects and DSA via LeetCode**  <br>👯 I’m looking to collaborate on **open-source web development and AI-driven tools**  <br>🤝 I’m looking for help with **system design and backend architecture**  <br>🌱 I’m currently learning **React.js, Tailwind CSS, Node.js, and advanced DSA**  <br>💬 Ask me about **frontend development, JavaScript, or full stack project ideas**  <br>⚡ Fun fact: **I love turning random ideas into working prototypes**<br>
+## 👋 Hey there! I'm Apoorv<br><br>🔭 I’m currently working on **Full Stack Web Projects and DSA via LeetCode**  <br>👯 I’m looking to collaborate on **open-source web development and AI-driven tools**  <br>🤝 I’m looking for help with **system design and backend architecture**  <br>🌱 I’m currently learning **React.js, Tailwind CSS, Node.js, and advanced DSA**  <br>💬 Ask me about **frontend development, JavaScript, or full stack project ideas**  <br>⚡ Fun fact: **I love turning random ideas into working prototypes**<br>
 
 
 ## 🌐 Socials:
