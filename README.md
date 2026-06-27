@@ -1,6 +1,9 @@
-# 💫 About Me:
-## 👋 Hey there! I'm Apoorv<br><br>🔭 I’m currently working on **Full Stack Web Projects and DSA via LeetCode**  <br>👯 I’m looking to collaborate on **open-source web development and AI-driven tools**  <br>🤝 I’m looking for help with **system design and backend architecture**  <br>🌱 I’m currently learning **React.js, Tailwind CSS, Node.js, and advanced DSA**  <br>💬 Ask me about **frontend development, JavaScript, or full stack project ideas**  <br>⚡ Fun fact: **I love turning random ideas into working prototypes**<br>
-
+#  About Me:
+**Hey, I'm Apoorv**
+*   **Currently working on:** Advanced full-stack web projects using React, TypeScript, and robust backend APIs.
+*   **Currently learning:** Deep diving into cloud-native microservices and advanced software architecture.
+*   **Looking to collaborate on:** Open-source web development and machine learning projects.
+*   **Ask me about:** Frontend development, backend optimizations, or competitive programming strategies.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apoorvpal2007@gmail.com) 
