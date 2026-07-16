@@ -16,7 +16,7 @@
 - Passionate about architecting scalable backend microservices and high-performance full-stack web applications.
 - Deeply interested in Artificial Intelligence, with a focus on Agentic AI workflows and advanced Retrieval-Augmented Generation (RAG) pipelines using vector and graph databases.
 - Interested in scalable system design, backend engineering, distributed systems, and AI-powered software solutions.
-- Strong algorithmic problem solver with a consistent focus on Data Structures & Algorithms, competitive programming, and code optimization.
+- Strong algorithmic problem solver with a consistent focus on Data Structures & Algorithms, competitive programming and code optimization.
 
 <table>
   <tr>
