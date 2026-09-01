@@ -40,7 +40,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/poorv-pal-1219a52bb">
+  <a href="https://linkedin.com/in/apoorv-pal-1219a52bb">
     <img src="https://img.shields.io/badge/LinkedIn-Apoorv%20Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@apoorvpal2007">
